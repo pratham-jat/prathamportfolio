@@ -9802,14 +9802,15 @@ textarea.form-control {
 
     @media(max-width:900px){
       .video{
-        width: 380px;
+        width: auto;
         height: 340px;
+        margin-left:-10px
       }
     }
 
     @media(max-width:900px){
       .video1{
-        width: 380px;
+        width: auto;
         height: 340px;
         margin-left: 0px;
       }
